@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 from train_verify import one_person_train,one_person_verify
 import time,os
 import sys
