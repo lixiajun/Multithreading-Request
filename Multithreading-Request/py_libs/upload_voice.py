@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 import requests,base64
 from deal_xml import deal_xml
 import sys
