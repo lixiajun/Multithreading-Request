@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 import xml.dom.minidom
 
 #打开xml文档
