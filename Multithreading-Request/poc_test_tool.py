@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 import sys,os
 sys.path.append('./py_libs/requests_libs')
 from poc_conf import ip,port
