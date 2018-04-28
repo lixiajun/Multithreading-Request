@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 from get_num_txt import get_train_txt,get_verify_txt
 from upload_voice import upload_train_voice,upload_verify_voice
 import os,time
