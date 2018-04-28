@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:xjli@d-ear.com
+#author:lxj
 import xml.dom.minidom
 def deal_xml(xml_content,*element):       #传入字符窜格式的xml，以及想要获得数据的对应的标签
     xml_open = xml.dom.minidom.parseString(xml_content)  # 传入存有xml的字符串
